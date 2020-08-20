@@ -1,2 +1,2 @@
 # node-full-project
-the jitsi and live recording project in node framework
+The jitsi and live webcam recording project in node framework
